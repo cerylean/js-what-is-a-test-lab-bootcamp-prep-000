@@ -3,5 +3,4 @@ var Name = "Susan"
 var height = 74
 var message = ` is ${height} inches tall`
 
-module.exports = {name2, height, message}
-se
+module.exports = {Name, height, message}
